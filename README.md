@@ -79,15 +79,6 @@ I'm a software engineer focused on building **production-grade AI systems** that
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitmukherjee101&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmukherjee101&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 📈 What Sets Me Apart
 
 - I build **end-to-end AI products**, not just models  
