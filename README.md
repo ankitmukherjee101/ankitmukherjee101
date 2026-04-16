@@ -6,13 +6,6 @@
 
 I'm a software engineer focused on building **production-grade AI systems** that solve real-world problems.
 
-- Designed multi-agent **RAG-based AI platforms** with cross-agent memory  
-- Built **LLM orchestration systems** integrating GPT-4, Gemini, and Perplexity  
-- Developed **AI-powered document processing pipelines** with 90%+ accuracy  
-- Experience across **full-stack development + AI/ML + distributed systems**
-
-> **AI × Systems × Product**
-
 ---
 
 ## 🧠 Tech Stack
